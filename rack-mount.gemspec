@@ -4,6 +4,7 @@ Gem::Specification.new do |s|
 
   s.homepage    = "https://github.com/josh/rack-mount"
   s.summary     = "Stackable dynamic tree based Rack router"
+  s.license     = "MIT"
   s.description = <<-EOS
     A stackable dynamic tree based Rack router.
   EOS
